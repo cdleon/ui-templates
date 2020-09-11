@@ -1,5 +1,7 @@
 # UI Templates
 
+[![Build Status](https://api.travis-ci.org/cdleon/ui-templates.svg?branch=master)](https://travis-ci.org/cdleon/ui-templates)
+
 ## Angular
 
 - [rdash-angular](https://github.com/invertase/rdash-angular) - AngularJS implementation of the RDash admin dashboard theme. [http://rdash.github.io](http://rdash.github.io)
