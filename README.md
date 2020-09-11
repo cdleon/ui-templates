@@ -36,7 +36,7 @@
 
 - [Cody House](https://codyhouse.co/) - A free library of HTML, CSS, JS nuggets
 - [Gridgum](http://gridgum.com/themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
-- [Material Design One Page HTML Template](https://github.com/joashp/material-design-template) - Material Design Based One Page HTML Template. [https://joashpereira.com/templates/material_one_pager/](https://joashpereira.com/templates/material_one_pager/)
+- [Material Design One Page HTML Template](https://github.com/joashp/material-design-template) - Material Design Based One Page HTML Template.
 
 ## Kanban
 
